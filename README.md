@@ -27,4 +27,4 @@ We welcome contributions from the public to improve the quality and completeness
 The contents of this repository are licensed under the MIT License.
 
 # Contact
-For any inquiries or questions, please contact us at projects@thisismeamir.com.
+For any inquiries or questions, please contact us at contact@iskportal.com
