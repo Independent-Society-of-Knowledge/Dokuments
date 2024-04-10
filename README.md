@@ -2,7 +2,7 @@
 This repository contains public documents and materials related to [Organization Name]. The purpose of this repository is to provide transparency and share important information with the public.
 
 **Contents**:
-- About Us
+- Founding Docs
 - Annual Reports
 - Policies and Guidelines
 - Press Releases
