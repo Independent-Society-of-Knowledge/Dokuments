@@ -1,5 +1,5 @@
 # Organization Public Documents
-This repository contains public documents and materials related to [Organization Name]. The purpose of this repository is to provide transparency and share important information with the public.
+This repository contains public documents and materials related to Independent Society of Knowledge. The purpose of this repository is to provide transparency and share important information with the public.
 
 **Contents**:
 - Founding Docs
@@ -19,12 +19,6 @@ Here, you'll find various policies and guidelines that govern our organization's
 
 # Press Releases
 This directory houses our official press releases, announcements, and media statements.
-
-# Contributing
-We welcome contributions from the public to improve the quality and completeness of our documentation. If you notice any errors or have suggestions for additional documents to include, please feel free to open an issue or submit a pull request.
-
-# License
-The contents of this repository are licensed under the MIT License.
 
 # Contact
 For any inquiries or questions, please contact us at contact@iskportal.com
