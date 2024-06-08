@@ -1,4 +1,5 @@
-![doKuments](https://github.com/Independent-Society-of-Knowledge/Dokuments/assets/76442288/2477a782-59bd-40ab-a775-fbc940e0efa0)
+![image](https://github.com/Independent-Society-of-Knowledge/Dokuments/assets/76442288/6d675399-5066-41fd-9f73-ab9bc525ba05)
+
 
 # Organization Public Documents
 This repository contains public documents and materials related to Independent Society of Knowledge. The purpose of this repository is to provide transparency and share important information with the public.
