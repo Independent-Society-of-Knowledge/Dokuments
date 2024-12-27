@@ -1,0 +1,54 @@
+- Definition
+  - Introduction to ISK
+  - Core Principles
+    - Decentralization
+    - Collaboration
+    - Open-Access
+- Membership policies
+  - Executive Members
+  - Official Members
+  - Collaborators
+  - Eligibility Criteria
+    - Application Process
+    - Evaluation Criteria
+  - Membership benefits
+    - Access to Resources
+    - Voting Rights
+  - Community Engagement
+    - Public Outreach
+      - Awareness Campaigns
+      - Collaborations with Other Organizations
+- Projects and Initiatives
+  - General Projects
+  - Initiatives
+  - Phase One
+- Educational Programs
+  - Seminars and Workshops
+  - Online Courses
+- Collaboration Platforms
+  - Online Platforms
+    - Social Medias
+    - Workspaces
+  - Online Meetings
+    - Annual Meeting
+    - Project Initiative
+    - Research Conference
+- Funding and Resources
+  - Funding Sources
+    - Donations
+    - Grants
+    - Sponsorships
+  - Resource Allocation
+    - Budgeting
+    - Resource Management
+- Future Vision and Goals
+  - Long-term Vision
+    - Strategic Plan
+    - Milestones
+  - Goals for the next Five Years
+    - Research Goals
+    - Community Growth Targets
+- Conclusion
+  - Summary of ISK's Mission
+  - Call to Action
+  - Final Thoughts
